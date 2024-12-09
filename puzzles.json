@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",
+      "answer": "An echo",
+      "hint": "You can hear this in a valley or a large empty room.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "question": "You are in a room with two doors. One door leads to certain death and the other leads to freedom. You don't know which is which. In the room with you are two guards: one always tells the truth, and the other always lies. You can ask one guard one question. What question do you ask to find the door to freedom?",
+      "answer": "Ask either guard, 'If I were to ask the other guard which door leads to freedom, which one would they point to?' and then choose the opposite door.",
+      "hint": "The lie will cancel out the truth.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 3,
+      "question": "What has keys but can't open locks?",
+      "answer": "A piano",
+      "hint": "This is an object often found in a music room.",
+      "difficulty": "easy"
+    }
+  ]
+  

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Puzzle Quest</title>
+    <link href="/css/styles.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header class="header">
+      <h1>Puzzle Quest</h1>
+    </header>
+    <main class="main-container">
+      <section id="puzzle-container" class="puzzle-container">
+        <h2 id="puzzle-question" class="puzzle-question">Loading puzzle...</h2>
+        <div class="input-group">
+          <input type="text" id="answer-input" class="input-field" placeholder="Enter your answer..." />
+          <button id="submit-answer" class="submit-button">Submit</button>
+        </div>
+        <div id="hint-container" class="hint-container">
+          <button id="hint-button" class="hint-button">Get Hint</button>
+          <p id="hint-text" class="hint-text"></p>
+        </div>
+        <div id="feedback" class="feedback">
+          <p id="feedback-message"></p>
+        </div>
+      </section>
+    </main>
+    <footer class="footer">
+      <p>&copy; 2024 Puzzle Quest</p>
+    </footer>
+    <script src="/js/main.js"></script>
+  </body>
+</html>
